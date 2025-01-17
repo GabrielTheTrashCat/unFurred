@@ -1,0 +1,26 @@
+[	
+{
+	"name": "Pillage Pile",
+		"replaces": "Monument",
+		"uniqueTo": "Gnolls",
+		"faith": 3,
+		"science": 1,
+		"Culture": 2,
+		"cost": 40,
+		"maintenance": 1,
+		"requiredTech": "Agriculture",
+		"uniques": ["Free [Gnoll knifeman] appears","Free [Gnoll knifeman] appears"]
+},{
+	"name": "Settler Hall",
+		"replaces": "Monument",
+		"uniqueTo": "Yukon settlers",
+		"faith": 0,
+		"science": 2,
+		"Culture": 2,
+		"cost": 40,
+		"maintenance": 1,
+		"requiredTech": "Agriculture",
+		"uniques": ["Free [Working Pioneer] appears"]
+}
+
+]
