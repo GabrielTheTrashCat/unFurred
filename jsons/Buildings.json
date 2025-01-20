@@ -3,24 +3,46 @@
 	"name": "Pillage Pile",
 		"replaces": "Monument",
 		"uniqueTo": "Gnolls",
-		"faith": 3,
-		"science": 1,
+		"faith": 1,
+		"science": 0,
 		"Culture": 2,
-		"cost": 40,
+		"gold": 4,
+		"cost": 50,
 		"maintenance": 1,
 		"requiredTech": "Agriculture",
 		"uniques": ["Free [Gnoll knifeman] appears","Free [Gnoll knifeman] appears"]
 },{
 	"name": "Settler Hall",
-		"replaces": "Monument",
 		"uniqueTo": "Yukon settlers",
 		"faith": 0,
 		"science": 2,
 		"Culture": 2,
-		"cost": 40,
+		"cost": 50,
+		"maintenance": 3,
+		"requiredTech": "Guilds",
+		"uniques": ["Free [Working Pioneer] appears"]
+},{
+	"name": "Racoon Gold Deposit",
+		"replaces": "Monument",
+		"uniqueTo": "Racoon Federation",
+		"faith": 2,
+		"science": 2,
+		"Culture": 2,
+		"gold": 2,
+		"cost": 30,
 		"maintenance": 1,
 		"requiredTech": "Agriculture",
-		"uniques": ["Free [Working Pioneer] appears"]
+		"uniques": [""]
+},{
+	"name": "City-state embassy",
+		"faith": 0,
+		"science": 3,
+		"Culture": 2,
+		"gold": 5,
+		"cost": 40,
+		"maintenance": 2,
+		"requiredTech": "Writing",
+		"uniques": ["Can spend Gold to annex or puppet a City-State that has been your Ally for [5] turns"]
 }
 
 ]
