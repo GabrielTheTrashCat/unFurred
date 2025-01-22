@@ -130,5 +130,31 @@
 		"uniqueName": "Werewolf War path",
 		"uniques": ["Free [Great General] appears <upon discovering [Archery] technology>", "[Great General] is earned [50]% faster", "[+5 Production] [in all cities] <when at war>"],
 		"cities": ["Kerfaol", "Warpath", "Moonden", "Gwaedfa", "Maanhood", "Llyn Blaidd", "Holy Blood river", "Crinsom river"],
+ },{
+   "name": "cat golf",
+		"leaderName": "canny cat",
+		"adjective": ["golfers"],
+		"startBias": ["Avoid [Coast]", "Plains", "Avoid [Forest]"],
+		"preferredVictoryType": "Scientific",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "MEOW! (declared war)",
+		"attacked": "MEOW! (was attacked)",
+		"defeated": "MEOW! (Its joever)",
+		"introduction": "MEOW! (hello)",
+
+		"neutralHello": "MEOW! (hello).",
+		"hateHello": "MEOW! (hello)",
+
+		"tradeRequest": "MEOW! (trading)",
+
+		"outerColor": [255,255,255],
+		"innerColor": [02, 255, 20],
+		"favoredReligion": "golf",
+		"uniqueName": "LET'S GO GOLFING!",
+		"uniques": ["[+15]% [Happiness] [in all cities] <when not at war>", "[90]% of excess happiness converted to [Gold] <when not at war>"],
+		"cities": ["Uncanny City", "Golfville", "Ballstown", "Cannyville", "Peak Peaks", "Canny fields", "penny lane", "Cattingtone"],
  }
 ]

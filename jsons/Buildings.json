@@ -43,6 +43,19 @@
 		"maintenance": 2,
 		"requiredTech": "Writing",
 		"uniques": ["Can spend Gold to annex or puppet a City-State that has been your Ally for [5] turns"]
+},{
+	"name": "Golf Course",
+		"replaces": "Monument",
+		"uniqueTo": "cat golf",
+		"faith": 5,
+		"science": 5,
+		"Culture": 5,
+		"Gold": 5,
+		"Happiness": 10,
+		"cost": 40,
+		"maintenance": 5,
+		"requiredTech": "Agriculture",
+		"uniques": [""]
 }
 
 ]
