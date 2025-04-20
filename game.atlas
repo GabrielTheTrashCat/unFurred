@@ -1,82 +1,110 @@
 
 game.png
-size: 512, 512
+size: 2048, 256
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/Pillage Pile
   rotate: false
-  xy: 204, 112
+  xy: 604, 20
   size: 192, 192
   orig: 192, 192
   offset: 0, 0
   index: -1
 LeaderIcons/Cripple prince Kitzune Tsuki
   rotate: false
-  xy: 4, 312
+  xy: 4, 20
   size: 192, 192
   orig: 192, 192
   offset: 0, 0
   index: -1
+LeaderIcons/Dragon Prince
+  rotate: false
+  xy: 1112, 112
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 LeaderIcons/Gangrene
   rotate: false
-  xy: 4, 112
+  xy: 204, 20
   size: 192, 192
   orig: 192, 192
   offset: 0, 0
   index: -1
 LeaderIcons/Jhon Mcallen
   rotate: false
-  xy: 404, 404
+  xy: 1328, 112
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 LeaderIcons/Kulu
   rotate: false
-  xy: 204, 312
+  xy: 404, 20
   size: 192, 192
   orig: 192, 192
   offset: 0, 0
   index: -1
 LeaderIcons/Warrior Princess Daitza
   rotate: false
-  xy: 220, 4
+  xy: 1652, 112
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+LeaderIcons/canny cat
+  rotate: false
+  xy: 804, 20
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+NationIcons/Dragon Kingdom
+  rotate: false
+  xy: 1004, 112
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Gnoll Tribes
   rotate: false
-  xy: 4, 4
+  xy: 1220, 112
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Kitzune Shogunate
   rotate: false
-  xy: 112, 4
+  xy: 1436, 112
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Racoon Federation
   rotate: false
-  xy: 404, 296
+  xy: 1544, 112
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Werewolves Tribes
   rotate: false
-  xy: 404, 188
+  xy: 1760, 112
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Yukon settlers
   rotate: false
-  xy: 328, 4
+  xy: 1868, 112
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/cat golf
+  rotate: false
+  xy: 1004, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0

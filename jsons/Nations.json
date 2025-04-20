@@ -98,7 +98,7 @@
    "favoredReligion": "Kitzune",
    "uniqueName": "Explore the oceans beyond",
    "uniques": ["Enables embarkation for land units <starting from the [Ancient era]> <Suppress warning [*contains a conditional on a unit movement unique*]>",
-            "Enables [All] units to enter ocean tiles <starting from the [Ancient era]>", "Free [Great Scientist] appears <upon discovering [Writing] technology>"],
+            "Enables [All] units to enter ocean tiles <starting from the [Ancient era]>", "Free [Great Scientist] appears <upon discovering [Writing] technology>", "[Great Scientist] is earned [50]% faster"],
    "cities": ["Kitzune","Osaka","Tokyo","Satsuma","Kagoshima","Nara","Nagoya","Izumo","Nagasaki","Yokohama",
       "Shimonoseki","Matsuyama","Sapporo","Hakodate","Ise","Toyama","Fukushima","Suo","Bizen","Echizen",
       "Izumi","Omi","Echigo","Kozuke","Sado","Kobe","Nagano","Hiroshima","Takayama","Akita","Fukuoka","Aomori",
@@ -156,5 +156,30 @@
 		"uniqueName": "LET'S GO GOLFING!",
 		"uniques": ["[+15]% [Happiness] [in all cities] <when not at war>", "[90]% of excess happiness converted to [Gold] <when not at war>"],
 		"cities": ["Uncanny City", "Golfville", "Ballstown", "Cannyville", "Peak Peaks", "Canny fields", "penny lane", "Cattingtone"],
+ },{
+   "name": "Dragon Kingdom",
+		"leaderName": "Dragon Prince",
+		"adjective": ["Dragons"],
+		"startBias": ["Avoid [Coast]", "Hill", "Forest"],
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "(declared war)",
+		"attacked": "(was attacked)",
+		"defeated": "(Its joever)",
+		"introduction": "(hello)",
+
+		"neutralHello": "(hello).",
+		"hateHello": "(hello)",
+
+		"tradeRequest": "(trading)",
+
+		"outerColor": [30, 2, 62],
+		"innerColor": [255,255,255],
+		"uniqueName": "Dragon Flight",
+		"uniques": ["[+5]% [Production] [in all cities] <when not at war>", "[10]% of excess happiness converted to [Gold] <when not at war>"],
+		"cities": ["Longjing", "Fenghuang's Roost", "Drakehaven", "Yinglong", "Pendrake", "Tiamat's Perch", "Shenhuo", "Wyrmwick", "Aoquan", "Emberminster"],
  }
 ]

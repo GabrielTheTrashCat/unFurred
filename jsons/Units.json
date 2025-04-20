@@ -22,6 +22,30 @@
 		"cost": 200,
 		"requiredTech": "Agriculture",
 		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action", "Founds a new city <by consuming this unit>", "Excess Food converted to Production when under construction"],
-	},
+	},{
+		"name": "Great Golfer",
+		"unitType": "Civilian",
+		"replaces": "Great Scientist",
+		"uniques": [
+            "Can hurry technology research",
+            "Can instantly construct a [Premium Golf Field] improvement <by consuming this unit>",
+            "Great Person - [Science]", "Unbuildable", "Uncapturable"],
+		"uniqueTo": "cat golf",
+		"movement": 2
+	},{
+		"name": "Dragon Warrior",
+		"unitType": "Dragon",
+		"movement": 1,
+		"strength": 35,
+		"rangedStrength": 35,
+		"range": 5,
+		"interceptRange": 5,
+		"cost": 50,
+		"requiredTech": "Agriculture",
+		"upgradesTo": "Triplane",
+		"obsoleteTech": "Flight",
+		"uniques": ["Uncapturable"],
+		"uniqueTo": "Dragon Kingdom"
+	}
 
 ]

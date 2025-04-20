@@ -3,12 +3,23 @@
 		"name": "Golf Field",
 		"uniqueTo": "cat golf",
 		"terrainsCanBeBuiltOn": ["Land"],
-        "science": 8,
+        "science": 3,
 		"culture": 5,
         "Happiness": 2,
 		"turnsToBuild": 4,
 		"uniques": ["Can only be built on [Plains] tiles", "[+1 Culture] for each adjacent [Golf Field]", "[+1 Gold] <after discovering [Flight]>", "Pillaging this improvement yields approximately [+10 Gold]"],
 		"techRequired": "Agriculture",
-		"shortcutKey": "M"
+		"shortcutKey": "G"
+	},{
+		"name": "Premium Golf Field",
+		"uniqueTo": "cat golf",
+		"terrainsCanBeBuiltOn": ["Land"],
+        "science": 30,
+		"culture": 50,
+        "Happiness": 20,
+		"turnsToBuild": 10,
+		"uniques": ["[+10 Culture] for each adjacent [Golf Field]", "[+10 Gold] <after discovering [Flight]>", "Pillaging this improvement yields approximately [+100 Gold]", "Great Improvement", "Removes removable features when built"],
+		"techRequired": "Agriculture",
+		"shortcutKey": "G"
 	},
 ]
